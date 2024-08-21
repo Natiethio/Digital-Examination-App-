@@ -1,4 +1,4 @@
-      ## We have allready included the features that are told to do so in the time of presentation
+
 User manual
 #Download the DigitalExamSystem Project and digital_examination database.
 
